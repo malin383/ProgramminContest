@@ -4,7 +4,10 @@ public class Main2 {
 	public static void main(String[] args){
 		String real = "abcdefghijklmnopqrstuvwxyz";
 		String encrypted = "itechjroxdvpzwayqklubfmsgn";
+		char realA[] = real.toCharArray();
+		char encryptedA[] = real.toCharArray();
 		
+		String array[] = new array[userinput]
 		
 		Scanner user = new Scanner(System.in);
 		
